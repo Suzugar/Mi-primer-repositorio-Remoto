@@ -22,6 +22,7 @@ public class E08_U02 {
 	
 		//Imprimimos la multa
 		System.out.print("multa: "+ (String.format("%.2f",pagar )));
+		System.out.print("Este es un cambio visible");
 
 	}
 }
